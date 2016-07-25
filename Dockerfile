@@ -10,7 +10,11 @@ ENV GRADLE_FOLDER=/root/.gradle
 # change to tmp folder
 WORKDIR /tmp
 
-# TODO
+# Download and extract gradle to opt folder
+RUN wget --no-check-certificate --no-cookies https://downloads.gradle.org/distributions/gradle-${GRADLE_VERSION}-bin.zip \
+    && unzip gradle-${GRADLE_VERSION}-bin.zip -d /opt \
+    && ln -s /opt/gradle-${GRADLE_VERSION} /opt/gradle \
+    && rm -f gradle-${GRADLE_VERSION}-bin.zip
 
 # add executables to path
 RUN update-alternatives --install "/usr/bin/gradle" "gradle" "/opt/gradle/bin/gradle" 1 && \
