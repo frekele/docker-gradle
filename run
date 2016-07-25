@@ -1,1 +1,1 @@
-docker run --rm --name maven frekele/gradle
+docker run --rm --name gradle frekele/gradle
