@@ -61,6 +61,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.12-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.12-jdk7u80                       |
 | [2.12-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.12-jdk7u79                       |
 
+
 #### Gradle 2.11 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
@@ -72,6 +73,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.11-jdk7]                | frekele/java:jdk7        | Production   | 2.11-jdk7                          |
 | [2.11-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.11-jdk7u80                       |
 | [2.11-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.11-jdk7u79                       |
+
 
 #### Gradle 2.10 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
@@ -85,6 +87,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.10-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.10-jdk7u80                       |
 | [2.10-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.10-jdk7u79                       |
 
+
 #### Gradle 2.9 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
@@ -96,6 +99,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.9-jdk7]                   | frekele/java:jdk7        | Production   | 2.9-jdk7                         |
 | [2.9-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.9-jdk7u80                      |
 | [2.9-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.9-jdk7u79                      |
+
 
 #### Gradle 2.8 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
@@ -109,6 +113,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.8-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.8-jdk7u80                      |
 | [2.8-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.8-jdk7u79                      |
 
+
 #### Gradle 2.7 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
@@ -120,6 +125,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.7-jdk7]                   | frekele/java:jdk7        | Production   | 2.7-jdk7                         |
 | [2.7-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.7-jdk7u80                      |
 | [2.7-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.7-jdk7u79                      |
+
 
 #### Gradle 2.6 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
@@ -133,6 +139,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.6-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.6-jdk7u80                      |
 | [2.6-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.6-jdk7u79                      |
 
+
 #### Gradle 2.5 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
@@ -144,6 +151,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.5-jdk7]                   | frekele/java:jdk7        | Production   | 2.5-jdk7                         |
 | [2.5-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.5-jdk7u80                      |
 | [2.5-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.5-jdk7u79                      |
+
 
 #### Gradle 2.4 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
@@ -157,6 +165,44 @@ Repository: https://hub.docker.com/r/frekele/gradle
 | [2.4-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.4-jdk7u80                      |
 | [2.4-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.4-jdk7u79                      |
 
+
+#### Gradle 2.3 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [2.3-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.3-jdk8                         |
+| [2.3-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.3-jdk8u102                     |
+| [2.3-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.3-jdk8u101                     |
+| [2.3-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.3-jdk8u92                      |
+| [2.3-jdk8u91]                | frekele/java:jdk8u91     | Production   | 2.3-jdk8u91                      |
+| [2.3-jdk7]                   | frekele/java:jdk7        | Production   | 2.3-jdk7                         |
+| [2.3-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.3-jdk7u80                      |
+| [2.3-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.3-jdk7u79                      |
+
+
+#### Gradle 2.2.1 with Oracle JDK Branches:
+| Branch                         | From                     | Usage        | Tag Names                      |
+| ------------------------------ | ------------------------ | ------------ | -------------------------------|
+| [2.2.1-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.2.1-jdk8                     |
+| [2.2.1-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.2.1-jdk8u102                 |
+| [2.2.1-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.2.1-jdk8u101                 |
+| [2.2.1-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.2.1-jdk8u92                  |
+| [2.2.1-jdk8u91]                | frekele/java:jdk8u91     | Production   | 2.2.1-jdk8u91                  |
+| [2.2.1-jdk7]                   | frekele/java:jdk7        | Production   | 2.2.1-jdk7                     |
+| [2.2.1-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.2.1-jdk7u80                  |
+| [2.2.1-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.2.1-jdk7u79                  |
+
+
+#### Gradle 2.2 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [2.2-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.2-jdk8                         |
+| [2.2-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.2-jdk8u102                     |
+| [2.2-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.2-jdk8u101                     |
+| [2.2-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.2-jdk8u92                      |
+| [2.2-jdk8u91]                | frekele/java:jdk8u91     | Production   | 2.2-jdk8u91                      |
+| [2.2-jdk7]                   | frekele/java:jdk7        | Production   | 2.2-jdk7                         |
+| [2.2-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.2-jdk7u80                      |
+| [2.2-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.2-jdk7u79                      |
 
 
 # Dockerfile extends From:
