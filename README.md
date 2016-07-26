@@ -204,3 +204,61 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 [GRADLE LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/GRADLE_LICENSE
 [MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/LICENSE
+
+[2.14.1-jdk8]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8/Dockerfile
+[2.14.1-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8u102/Dockerfile
+[2.14.1-jdk8u101]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8u101/Dockerfile
+[2.14.1-jdk8u92]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8u92/Dockerfile
+[2.14.1-jdk8u91]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8u91/Dockerfile
+[2.14.1-jdk7]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7/Dockerfile
+[2.14.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7u80/Dockerfile
+[2.14.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7u79/Dockerfile
+[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
+
+[2.14-jdk8]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8/Dockerfile
+[2.14-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8u102/Dockerfile
+[2.14-jdk8u101]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8u101/Dockerfile
+[2.14-jdk8u92]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8u92/Dockerfile
+[2.14-jdk8u91]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8u91/Dockerfile
+[2.14-jdk7]: https://github.com/frekele/docker-gradle/blob/2.14-jdk7/Dockerfile
+[2.14-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.14-jdk7u80/Dockerfile
+[2.14-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.14-jdk7u79/Dockerfile
+
+[2.13-jdk8]: https://github.com/frekele/docker-gradle/blob/2.13-jdk8/Dockerfile
+[2.13-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.13-jdk8u102/Dockerfile
+[2.13-jdk8u101]: https://github.com/frekele/docker-gradle/blob/2.13-jdk8u101/Dockerfile
+[2.13-jdk8u92]: https://github.com/frekele/docker-gradle/blob/2.13-jdk8u92/Dockerfile
+[2.13-jdk8u91]: https://github.com/frekele/docker-gradle/blob/2.13-jdk8u91/Dockerfile
+[2.13-jdk7]: https://github.com/frekele/docker-gradle/blob/2.13-jdk7/Dockerfile
+[2.13-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.13-jdk7u80/Dockerfile
+[2.13-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.13-jdk7u79/Dockerfile
+
+[2.12-jdk8]: https://github.com/frekele/docker-gradle/blob/2.12-jdk8/Dockerfile
+[2.12-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.12-jdk8u102/Dockerfile
+[2.12-jdk8u101]: https://github.com/frekele/docker-gradle/blob/2.12-jdk8u101/Dockerfile
+[2.12-jdk8u92]: https://github.com/frekele/docker-gradle/blob/2.12-jdk8u92/Dockerfile
+[2.12-jdk8u91]: https://github.com/frekele/docker-gradle/blob/2.12-jdk8u91/Dockerfile
+[2.12-jdk7]: https://github.com/frekele/docker-gradle/blob/2.12-jdk7/Dockerfile
+[2.12-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.12-jdk7u80/Dockerfile
+[2.12-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.12-jdk7u79/Dockerfile
+
+[2.11-jdk8]: https://github.com/frekele/docker-gradle/blob/2.11-jdk8/Dockerfile
+[2.11-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.11-jdk8u102/Dockerfile
+[2.11-jdk8u101]: https://github.com/frekele/docker-gradle/blob/2.11-jdk8u101/Dockerfile
+[2.11-jdk8u92]: https://github.com/frekele/docker-gradle/blob/2.11-jdk8u92/Dockerfile
+[2.11-jdk8u91]: https://github.com/frekele/docker-gradle/blob/2.11-jdk8u91/Dockerfile
+[2.11-jdk7]: https://github.com/frekele/docker-gradle/blob/2.11-jdk7/Dockerfile
+[2.11-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.11-jdk7u80/Dockerfile
+[2.11-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.11-jdk7u79/Dockerfile
+
+[2.10-jdk8]: https://github.com/frekele/docker-gradle/blob/2.10-jdk8/Dockerfile
+[2.10-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.10-jdk8u102/Dockerfile
+[2.10-jdk8u101]: https://github.com/frekele/docker-gradle/blob/2.10-jdk8u101/Dockerfile
+[2.10-jdk8u92]: https://github.com/frekele/docker-gradle/blob/2.10-jdk8u92/Dockerfile
+[2.10-jdk8u91]: https://github.com/frekele/docker-gradle/blob/2.10-jdk8u91/Dockerfile
+[2.10-jdk7]: https://github.com/frekele/docker-gradle/blob/2.10-jdk7/Dockerfile
+[2.10-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.10-jdk7u80/Dockerfile
+[2.10-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.10-jdk7u79/Dockerfile
+
+
+
