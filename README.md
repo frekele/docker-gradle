@@ -26,7 +26,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.14 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
-| [2.14-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.14-jdk8                          |
+| [2.14-jdk8]                | frekele/java:jdk8        | Production   | 2.14-jdk8                          |
 | [2.14-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.14-jdk8u102                      |
 | [2.14-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.14-jdk8u101                      |
 | [2.14-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.14-jdk8u92                       |
@@ -39,7 +39,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.13 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
-| [2.13-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.13-jdk8                          |
+| [2.13-jdk8]                | frekele/java:jdk8        | Production   | 2.13-jdk8                          |
 | [2.13-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.13-jdk8u102                      |
 | [2.13-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.13-jdk8u101                      |
 | [2.13-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.13-jdk8u92                       |
@@ -52,7 +52,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.12 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
-| [2.12-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.12-jdk8                          |
+| [2.12-jdk8]                | frekele/java:jdk8        | Production   | 2.12-jdk8                          |
 | [2.12-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.12-jdk8u102                      |
 | [2.12-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.12-jdk8u101                      |
 | [2.12-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.12-jdk8u92                       |
@@ -65,7 +65,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.11 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
-| [2.11-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.11-jdk8                          |
+| [2.11-jdk8]                | frekele/java:jdk8        | Production   | 2.11-jdk8                          |
 | [2.11-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.11-jdk8u102                      |
 | [2.11-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.11-jdk8u101                      |
 | [2.11-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.11-jdk8u92                       |
@@ -78,7 +78,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.10 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
-| [2.10-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.10-jdk8                          |
+| [2.10-jdk8]                | frekele/java:jdk8        | Production   | 2.10-jdk8                          |
 | [2.10-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.10-jdk8u102                      |
 | [2.10-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.10-jdk8u101                      |
 | [2.10-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.10-jdk8u92                       |
@@ -91,7 +91,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.9 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [2.9-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.9-jdk8                          |
+| [2.9-jdk8]                   | frekele/java:jdk8        | Production   | 2.9-jdk8                          |
 | [2.9-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.9-jdk8u102                     |
 | [2.9-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.9-jdk8u101                     |
 | [2.9-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.9-jdk8u92                      |
@@ -104,7 +104,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.8 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [2.8-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.8-jdk8                          |
+| [2.8-jdk8]                   | frekele/java:jdk8        | Production   | 2.8-jdk8                          |
 | [2.8-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.8-jdk8u102                     |
 | [2.8-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.8-jdk8u101                     |
 | [2.8-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.8-jdk8u92                      |
@@ -117,7 +117,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.7 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [2.7-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.7-jdk8                         |
+| [2.7-jdk8]                   | frekele/java:jdk8        | Production   | 2.7-jdk8                         |
 | [2.7-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.7-jdk8u102                     |
 | [2.7-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.7-jdk8u101                     |
 | [2.7-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.7-jdk8u92                      |
@@ -130,7 +130,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.6 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [2.6-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.6-jdk8                         |
+| [2.6-jdk8]                   | frekele/java:jdk8        | Production   | 2.6-jdk8                         |
 | [2.6-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.6-jdk8u102                     |
 | [2.6-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.6-jdk8u101                     |
 | [2.6-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.6-jdk8u92                      |
@@ -143,7 +143,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.5 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [2.5-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.5-jdk8                         |
+| [2.5-jdk8]                   | frekele/java:jdk8        | Production   | 2.5-jdk8                         |
 | [2.5-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.5-jdk8u102                     |
 | [2.5-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.5-jdk8u101                     |
 | [2.5-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.5-jdk8u92                      |
@@ -156,7 +156,7 @@ Repository: https://hub.docker.com/r/frekele/gradle
 #### Gradle 2.4 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [2.4-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.4-jdk8                         |
+| [2.4-jdk8]                   | frekele/java:jdk8        | Production   | 2.4-jdk8                         |
 | [2.4-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.4-jdk8u102                     |
 | [2.4-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.4-jdk8u101                     |
 | [2.4-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.4-jdk8u92                      |
