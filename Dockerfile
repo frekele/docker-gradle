@@ -6,7 +6,7 @@ ENV GRADLE_VERSION=2.14.1
 ENV GRADLE_HOME=/opt/gradle
 ENV GRADLE_FOLDER=/root/.gradle
 
-# change to tmp folder
+# Change to tmp folder
 WORKDIR /tmp
 
 # Download and extract gradle to opt folder
