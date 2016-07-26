@@ -50,3 +50,4 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [GRADLE LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/GRADLE_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/LICENSE
