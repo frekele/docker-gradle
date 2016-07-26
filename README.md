@@ -10,30 +10,92 @@
 Repository: https://hub.docker.com/r/frekele/gradle
 
 #### Gradle 2.14.1 with Oracle JDK Branches:
-| Branch                       | From                     | Usage        | Tag Names                            |
-| ---------------------------- | ------------------------ | ------------ | -------------------------------------|
-| [2.14.1-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.14.1-jdk8, latest                  |
-| [2.14.1-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.14.1-jdk8u102                      |
-| [2.14.1-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.14.1-jdk8u101                      |
-| [2.14.1-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.14.1-jdk8u92                       |
-| [2.14.1-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.14.1-jdk8u91                       |
-| [2.14.1-jdk8u77]             | frekele/java:jdk8u77     | Production   | 2.14.1-jdk8u77                       |
-| [2.14.1-jdk8u74]             | frekele/java:jdk8u74     | Production   | 2.14.1-jdk8u74                       |
-| [2.14.1-jdk8u73]             | frekele/java:jdk8u73     | Production   | 2.14.1-jdk8u73                       |
-| [2.14.1-jdk8u72]             | frekele/java:jdk8u72     | Production   | 2.14.1-jdk8u72                       |
-| [2.14.1-jdk8u71]             | frekele/java:jdk8u71     | Production   | 2.14.1-jdk8u71                       |
-| [2.14.1-jdk8u66]             | frekele/java:jdk8u66     | Production   | 2.14.1-jdk8u66                       |
-| [2.14.1-jdk8u65]             | frekele/java:jdk8u65     | Production   | 2.14.1-jdk8u65                       |
-| [2.14.1-jdk8u60]             | frekele/java:jdk8u60     | Production   | 2.14.1-jdk8u60                       |
-| [2.14.1-jdk8u51]             | frekele/java:jdk8u51     | Production   | 2.14.1-jdk8u51                       |
-| [2.14.1-jdk7]                | frekele/java:jdk7        | Production   | 2.14.1-jdk7                          |
-| [2.14.1-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.14.1-jdk7u80                       |
-| [2.14.1-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.14.1-jdk7u79                       |
-| [2.14.1-jdk7u76]             | frekele/java:jdk7u76     | Production   | 2.14.1-jdk7u76                       |
-| [2.14.1-jdk7u75]             | frekele/java:jdk7u75     | Production   | 2.14.1-jdk7u75                       |
-| [2.14.1-jdk7u72]             | frekele/java:jdk7u72     | Production   | 2.14.1-jdk7u72                       |
-| [2.14.1-jdk7u71]             | frekele/java:jdk7u71     | Production   | 2.14.1-jdk7u71                       |
-| [dev]                        | frekele/java:jdk8        | Development  | dev                                  |
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [2.14.1-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.14.1-jdk8, latest              |
+| [2.14.1-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.14.1-jdk8u102                  |
+| [2.14.1-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.14.1-jdk8u101                  |
+| [2.14.1-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.14.1-jdk8u92                   |
+| [2.14.1-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.14.1-jdk8u91                   |
+| [2.14.1-jdk7]                | frekele/java:jdk7        | Production   | 2.14.1-jdk7                      |
+| [2.14.1-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.14.1-jdk7u80                   |
+| [2.14.1-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.14.1-jdk7u79                   |
+| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
+
+
+#### Gradle 2.14 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| -------------------------- | ------------------------ | ------------ | -----------------------------------|
+| [2.14-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.14-jdk8, latest                  |
+| [2.14-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.14-jdk8u102                      |
+| [2.14-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.14-jdk8u101                      |
+| [2.14-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.14-jdk8u92                       |
+| [2.14-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.14-jdk8u91                       |
+| [2.14-jdk7]                | frekele/java:jdk7        | Production   | 2.14-jdk7                          |
+| [2.14-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.14-jdk7u80                       |
+| [2.14-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.14-jdk7u79                       |
+
+
+#### Gradle 2.13 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| -------------------------- | ------------------------ | ------------ | -----------------------------------|
+| [2.13-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.13-jdk8, latest                  |
+| [2.13-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.13-jdk8u102                      |
+| [2.13-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.13-jdk8u101                      |
+| [2.13-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.13-jdk8u92                       |
+| [2.13-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.13-jdk8u91                       |
+| [2.13-jdk7]                | frekele/java:jdk7        | Production   | 2.13-jdk7                          |
+| [2.13-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.13-jdk7u80                       |
+| [2.13-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.13-jdk7u79                       |
+
+
+#### Gradle 2.12 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| -------------------------- | ------------------------ | ------------ | -----------------------------------|
+| [2.12-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.12-jdk8, latest                  |
+| [2.12-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.12-jdk8u102                      |
+| [2.12-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.12-jdk8u101                      |
+| [2.12-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.12-jdk8u92                       |
+| [2.12-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.12-jdk8u91                       |
+| [2.12-jdk7]                | frekele/java:jdk7        | Production   | 2.12-jdk7                          |
+| [2.12-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.12-jdk7u80                       |
+| [2.12-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.12-jdk7u79                       |
+
+#### Gradle 2.11 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| -------------------------- | ------------------------ | ------------ | -----------------------------------|
+| [2.11-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.11-jdk8, latest                  |
+| [2.11-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.11-jdk8u102                      |
+| [2.11-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.11-jdk8u101                      |
+| [2.11-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.11-jdk8u92                       |
+| [2.11-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.11-jdk8u91                       |
+| [2.11-jdk7]                | frekele/java:jdk7        | Production   | 2.11-jdk7                          |
+| [2.11-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.11-jdk7u80                       |
+| [2.11-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.11-jdk7u79                       |
+
+#### Gradle 2.10 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| -------------------------- | ------------------------ | ------------ | -----------------------------------|
+| [2.10-jdk8] - latest       | frekele/java:jdk8        | Production   | 2.10-jdk8, latest                  |
+| [2.10-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.10-jdk8u102                      |
+| [2.10-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.10-jdk8u101                      |
+| [2.10-jdk8u92]             | frekele/java:jdk8u92     | Production   | 2.10-jdk8u92                       |
+| [2.10-jdk8u91]             | frekele/java:jdk8u91     | Production   | 2.10-jdk8u91                       |
+| [2.10-jdk7]                | frekele/java:jdk7        | Production   | 2.10-jdk7                          |
+| [2.10-jdk7u80]             | frekele/java:jdk7u80     | Production   | 2.10-jdk7u80                       |
+| [2.10-jdk7u79]             | frekele/java:jdk7u79     | Production   | 2.10-jdk7u79                       |
+
+#### Gradle 2.9 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [2.9-jdk8] - latest          | frekele/java:jdk8        | Production   | 2.9-jdk8, latest                 |
+| [2.9-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.9-jdk8u102                     |
+| [2.9-jdk8u101]               | frekele/java:jdk8u101    | Production   | 2.9-jdk8u101                     |
+| [2.9-jdk8u92]                | frekele/java:jdk8u92     | Production   | 2.9-jdk8u92                      |
+| [2.9-jdk8u91]                | frekele/java:jdk8u91     | Production   | 2.9-jdk8u91                      |
+| [2.9-jdk7]                   | frekele/java:jdk7        | Production   | 2.9-jdk7                         |
+| [2.9-jdk7u80]                | frekele/java:jdk7u80     | Production   | 2.9-jdk7u80                      |
+| [2.9-jdk7u79]                | frekele/java:jdk7u79     | Production   | 2.9-jdk7u79                      |
 
 
 
