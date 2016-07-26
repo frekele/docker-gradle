@@ -15,7 +15,7 @@ RUN wget --no-check-certificate --no-cookies https://downloads.gradle.org/distri
     && ln -s /opt/gradle-${GRADLE_VERSION} /opt/gradle \
     && rm -f gradle-${GRADLE_VERSION}-bin.zip
 
-# add executables to path
+# Add executables to path
 RUN update-alternatives --install "/usr/bin/gradle" "gradle" "/opt/gradle/bin/gradle" 1 && \
     update-alternatives --set "gradle" "/opt/gradle/bin/gradle" 
 
@@ -28,5 +28,5 @@ VOLUME  $GRADLE_FOLDER
 # Add the files
 ADD rootfs /
 
-# change to root folder
+# Change to root folder
 WORKDIR /root
