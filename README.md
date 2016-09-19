@@ -12,10 +12,24 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 
+#### Gradle 3.1 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [3.1-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.1-jdk8, 3-jdk8, latest         |
+| [3.1-jdk8u102]               | frekele/java:jdk8u102    | Production   | 3.1-jdk8u102                     |
+| [3.1-jdk8u101]               | frekele/java:jdk8u101    | Production   | 3.1-jdk8u101                     |
+| [3.1-jdk8u92]                | frekele/java:jdk8u92     | Production   | 3.1-jdk8u92                      |
+| [3.1-jdk8u91]                | frekele/java:jdk8u91     | Production   | 3.1-jdk8u91                      |
+| [3.1-jdk7]                   | frekele/java:jdk7        | Production   | 3.1-jdk7                         |
+| [3.1-jdk7u80]                | frekele/java:jdk7u80     | Production   | 3.1-jdk7u80                      |
+| [3.1-jdk7u79]                | frekele/java:jdk7u79     | Production   | 3.1-jdk7u79                      |
+| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
+
+
 #### Gradle 3.0 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [3.0-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.0-jdk8, 3-jdk8, latest         |
+| [3.0-jdk8]                   | frekele/java:jdk8        | Production   | 3.0-jdk8                         |
 | [3.0-jdk8u102]               | frekele/java:jdk8u102    | Production   | 3.0-jdk8u102                     |
 | [3.0-jdk8u101]               | frekele/java:jdk8u101    | Production   | 3.0-jdk8u101                     |
 | [3.0-jdk8u92]                | frekele/java:jdk8u92     | Production   | 3.0-jdk8u92                      |
@@ -23,7 +37,6 @@
 | [3.0-jdk7]                   | frekele/java:jdk7        | Production   | 3.0-jdk7                         |
 | [3.0-jdk7u80]                | frekele/java:jdk7u80     | Production   | 3.0-jdk7u80                      |
 | [3.0-jdk7u79]                | frekele/java:jdk7u79     | Production   | 3.0-jdk7u79                      |
-| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
 
 
 #### Gradle 2.14.1 with Oracle JDK Branches:
@@ -226,6 +239,16 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [GRADLE LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/GRADLE_LICENSE
 [MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/LICENSE
 
+[3.1-jdk8]: https://github.com/frekele/docker-gradle/blob/3.1-jdk8/Dockerfile
+[3.1-jdk8u102]: https://github.com/frekele/docker-gradle/blob/3.1-jdk8u102/Dockerfile
+[3.1-jdk8u101]: https://github.com/frekele/docker-gradle/blob/3.1-jdk8u101/Dockerfile
+[3.1-jdk8u92]: https://github.com/frekele/docker-gradle/blob/3.1-jdk8u92/Dockerfile
+[3.1-jdk8u91]: https://github.com/frekele/docker-gradle/blob/3.1-jdk8u91/Dockerfile
+[3.1-jdk7]: https://github.com/frekele/docker-gradle/blob/3.1-jdk7/Dockerfile
+[3.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/3.1-jdk7u80/Dockerfile
+[3.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/3.1-jdk7u79/Dockerfile
+[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
+
 [3.0-jdk8]: https://github.com/frekele/docker-gradle/blob/3.0-jdk8/Dockerfile
 [3.0-jdk8u102]: https://github.com/frekele/docker-gradle/blob/3.0-jdk8u102/Dockerfile
 [3.0-jdk8u101]: https://github.com/frekele/docker-gradle/blob/3.0-jdk8u101/Dockerfile
@@ -234,7 +257,6 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [3.0-jdk7]: https://github.com/frekele/docker-gradle/blob/3.0-jdk7/Dockerfile
 [3.0-jdk7u80]: https://github.com/frekele/docker-gradle/blob/3.0-jdk7u80/Dockerfile
 [3.0-jdk7u79]: https://github.com/frekele/docker-gradle/blob/3.0-jdk7u79/Dockerfile
-[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
 
 [2.14.1-jdk8]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8/Dockerfile
 [2.14.1-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8u102/Dockerfile
@@ -244,7 +266,6 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [2.14.1-jdk7]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7/Dockerfile
 [2.14.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7u80/Dockerfile
 [2.14.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7u79/Dockerfile
-
 
 [2.14-jdk8]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8/Dockerfile
 [2.14-jdk8u102]: https://github.com/frekele/docker-gradle/blob/2.14-jdk8u102/Dockerfile
