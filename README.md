@@ -31,7 +31,7 @@
 #### Gradle 3.2.1 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [3.2.1-jdk8] - latest        | frekele/java:jdk8        | Production   | 3.2.1-jdk8                       |
+| [3.2.1-jdk8]                 | frekele/java:jdk8        | Production   | 3.2.1-jdk8                       |
 | [3.2.1-jdk8u112]             | frekele/java:jdk8u112    | Production   | 3.2.1-jdk8u112                   |
 | [3.2.1-jdk8u111]             | frekele/java:jdk8u111    | Production   | 3.2.1-jdk8u111                   |
 | [3.2.1-jdk8u102]             | frekele/java:jdk8u102    | Production   | 3.2.1-jdk8u102                   |
@@ -46,7 +46,7 @@
 #### Gradle 3.2 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [3.2-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.2-jdk8                         |
+| [3.2-jdk8]                   | frekele/java:jdk8        | Production   | 3.2-jdk8                         |
 | [3.2-jdk8u112]               | frekele/java:jdk8u112    | Production   | 3.2-jdk8u112                     |
 | [3.2-jdk8u111]               | frekele/java:jdk8u111    | Production   | 3.2-jdk8u111                     |
 | [3.2-jdk8u102]               | frekele/java:jdk8u102    | Production   | 3.2-jdk8u102                     |
@@ -61,7 +61,7 @@
 #### Gradle 3.1 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [3.1-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.1-jdk8                         |
+| [3.1-jdk8]                   | frekele/java:jdk8        | Production   | 3.1-jdk8                         |
 | [3.1-jdk8u112]               | frekele/java:jdk8u112    | Production   | 3.1-jdk8u112                     |
 | [3.1-jdk8u111]               | frekele/java:jdk8u111    | Production   | 3.1-jdk8u111                     |
 | [3.1-jdk8u102]               | frekele/java:jdk8u102    | Production   | 3.1-jdk8u102                     |
