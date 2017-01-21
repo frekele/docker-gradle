@@ -113,6 +113,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
 | [2.14-jdk8]                | frekele/java:jdk8        | Production   | 2.14-jdk8                          |
+| [2.14-jdk8u121]            | frekele/java:jdk8u121    | Production   | 2.14-jdk8u121                      |
 | [2.14-jdk8u112]            | frekele/java:jdk8u112    | Production   | 2.14-jdk8u112                      |
 | [2.14-jdk8u111]            | frekele/java:jdk8u111    | Production   | 2.14-jdk8u111                      |
 | [2.14-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.14-jdk8u102                      |
@@ -128,6 +129,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
 | [2.13-jdk8]                | frekele/java:jdk8        | Production   | 2.13-jdk8                          |
+| [2.13-jdk8u121]            | frekele/java:jdk8u121    | Production   | 2.13-jdk8u121                      |
 | [2.13-jdk8u112]            | frekele/java:jdk8u112    | Production   | 2.13-jdk8u112                      |
 | [2.13-jdk8u111]            | frekele/java:jdk8u111    | Production   | 2.13-jdk8u111                      |
 | [2.13-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.13-jdk8u102                      |
@@ -143,6 +145,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
 | [2.12-jdk8]                | frekele/java:jdk8        | Production   | 2.12-jdk8                          |
+| [2.12-jdk8u121]            | frekele/java:jdk8u121    | Production   | 2.12-jdk8u121                      |
 | [2.12-jdk8u112]            | frekele/java:jdk8u112    | Production   | 2.12-jdk8u112                      |
 | [2.12-jdk8u111]            | frekele/java:jdk8u111    | Production   | 2.12-jdk8u111                      |
 | [2.12-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.12-jdk8u102                      |
@@ -158,6 +161,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
 | [2.11-jdk8]                | frekele/java:jdk8        | Production   | 2.11-jdk8                          |
+| [2.11-jdk8u121]            | frekele/java:jdk8u121    | Production   | 2.11-jdk8u121                      |
 | [2.11-jdk8u112]            | frekele/java:jdk8u112    | Production   | 2.11-jdk8u112                      |
 | [2.11-jdk8u111]            | frekele/java:jdk8u111    | Production   | 2.11-jdk8u111                      |
 | [2.11-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.11-jdk8u102                      |
@@ -173,6 +177,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | -------------------------- | ------------------------ | ------------ | -----------------------------------|
 | [2.10-jdk8]                | frekele/java:jdk8        | Production   | 2.10-jdk8                          |
+| [2.10-jdk8u121]            | frekele/java:jdk8u121    | Production   | 2.10-jdk8u121                      |
 | [2.10-jdk8u102]            | frekele/java:jdk8u112    | Production   | 2.10-jdk8u112                      |
 | [2.10-jdk8u111]            | frekele/java:jdk8u111    | Production   | 2.10-jdk8u111                      |
 | [2.10-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.10-jdk8u102                      |
@@ -188,6 +193,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.9-jdk8]                   | frekele/java:jdk8        | Production   | 2.9-jdk8                         |
+| [2.9-jdk8u121]               | frekele/java:jdk8u121    | Production   | 2.9-jdk8u121                     |
 | [2.9-jdk8u112]               | frekele/java:jdk8u112    | Production   | 2.9-jdk8u112                     |
 | [2.9-jdk8u111]               | frekele/java:jdk8u111    | Production   | 2.9-jdk8u111                     |
 | [2.9-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.9-jdk8u102                     |
@@ -203,6 +209,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.8-jdk8]                   | frekele/java:jdk8        | Production   | 2.8-jdk8                         |
+| [2.8-jdk8u121]               | frekele/java:jdk8u121    | Production   | 2.8-jdk8u121                     |
 | [2.8-jdk8u112]               | frekele/java:jdk8u112    | Production   | 2.8-jdk8u112                     |
 | [2.8-jdk8u111]               | frekele/java:jdk8u111    | Production   | 2.8-jdk8u111                     |
 | [2.8-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.8-jdk8u102                     |
@@ -218,6 +225,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.7-jdk8]                   | frekele/java:jdk8        | Production   | 2.7-jdk8                         |
+| [2.7-jdk8u121]               | frekele/java:jdk8u121    | Production   | 2.7-jdk8u121                     |
 | [2.7-jdk8u112]               | frekele/java:jdk8u112    | Production   | 2.7-jdk8u112                     |
 | [2.7-jdk8u111]               | frekele/java:jdk8u111    | Production   | 2.7-jdk8u111                     |
 | [2.7-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.7-jdk8u102                     |
@@ -233,6 +241,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.6-jdk8]                   | frekele/java:jdk8        | Production   | 2.6-jdk8                         |
+| [2.6-jdk8u121]               | frekele/java:jdk8u121    | Production   | 2.6-jdk8u121                     |
 | [2.6-jdk8u112]               | frekele/java:jdk8u112    | Production   | 2.6-jdk8u112                     |
 | [2.6-jdk8u111]               | frekele/java:jdk8u111    | Production   | 2.6-jdk8u111                     |
 | [2.6-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.6-jdk8u102                     |
@@ -248,6 +257,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.5-jdk8]                   | frekele/java:jdk8        | Production   | 2.5-jdk8                         |
+| [2.5-jdk8u121]               | frekele/java:jdk8u121    | Production   | 2.5-jdk8u121                     |
 | [2.5-jdk8u112]               | frekele/java:jdk8u112    | Production   | 2.5-jdk8u112                     |
 | [2.5-jdk8u111]               | frekele/java:jdk8u111    | Production   | 2.5-jdk8u111                     |
 | [2.5-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.5-jdk8u102                     |
@@ -263,6 +273,7 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.4-jdk8]                   | frekele/java:jdk8        | Production   | 2.4-jdk8                         |
+| [2.4-jdk8u121]               | frekele/java:jdk8u121    | Production   | 2.4-jdk8u121                     |
 | [2.4-jdk8u112]               | frekele/java:jdk8u112    | Production   | 2.4-jdk8u112                     |
 | [2.4-jdk8u111]               | frekele/java:jdk8u111    | Production   | 2.4-jdk8u111                     |
 | [2.4-jdk8u102]               | frekele/java:jdk8u102    | Production   | 2.4-jdk8u102                     |
