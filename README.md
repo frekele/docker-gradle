@@ -15,7 +15,24 @@
 #### Gradle 3.3 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [3.3-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.3-jdk8, 3-jdk8, latest         |
+| [3.4-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.4-jdk8, 3-jdk8, latest         |
+| [3.4-jdk8u121]               | frekele/java:jdk8u121    | Production   | 3.4-jdk8u121                     |
+| [3.4-jdk8u112]               | frekele/java:jdk8u112    | Production   | 3.4-jdk8u112                     |
+| [3.4-jdk8u111]               | frekele/java:jdk8u111    | Production   | 3.4-jdk8u111                     |
+| [3.4-jdk8u102]               | frekele/java:jdk8u102    | Production   | 3.4-jdk8u102                     |
+| [3.4-jdk8u101]               | frekele/java:jdk8u101    | Production   | 3.4-jdk8u101                     |
+| [3.4-jdk8u92]                | frekele/java:jdk8u92     | Production   | 3.4-jdk8u92                      |
+| [3.4-jdk8u91]                | frekele/java:jdk8u91     | Production   | 3.4-jdk8u91                      |
+| [3.4-jdk7]                   | frekele/java:jdk7        | Production   | 3.4-jdk7                         |
+| [3.4-jdk7u80]                | frekele/java:jdk7u80     | Production   | 3.4-jdk7u80                      |
+| [3.4-jdk7u79]                | frekele/java:jdk7u79     | Production   | 3.4-jdk7u79                      |
+| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
+
+
+#### Gradle 3.3 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [3.3-jdk8]                   | frekele/java:jdk8        | Production   | 3.3-jdk8                         |
 | [3.3-jdk8u121]               | frekele/java:jdk8u121    | Production   | 3.3-jdk8u121                     |
 | [3.3-jdk8u112]               | frekele/java:jdk8u112    | Production   | 3.3-jdk8u112                     |
 | [3.3-jdk8u111]               | frekele/java:jdk8u111    | Production   | 3.3-jdk8u111                     |
@@ -26,7 +43,6 @@
 | [3.3-jdk7]                   | frekele/java:jdk7        | Production   | 3.3-jdk7                         |
 | [3.3-jdk7u80]                | frekele/java:jdk7u80     | Production   | 3.3-jdk7u80                      |
 | [3.3-jdk7u79]                | frekele/java:jdk7u79     | Production   | 3.3-jdk7u79                      |
-| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
 
 
 #### Gradle 3.2.1 with Oracle JDK Branches:
