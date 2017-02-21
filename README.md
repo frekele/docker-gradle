@@ -12,7 +12,7 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 
-#### Gradle 3.3 with Oracle JDK Branches:
+#### Gradle 3.4 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.4-jdk8] - latest          | frekele/java:jdk8        | Production   | 3.4-jdk8, 3-jdk8, latest         |
