@@ -240,7 +240,7 @@
 | [2.10-jdk8]                | frekele/java:jdk8        | Production   | 2.10-jdk8                          |
 | [2.10-jdk8u131]            | frekele/java:jdk8u131    | Production   | 2.10-jdk8u131                      |
 | [2.10-jdk8u121]            | frekele/java:jdk8u121    | Production   | 2.10-jdk8u121                      |
-| [2.10-jdk8u102]            | frekele/java:jdk8u112    | Production   | 2.10-jdk8u112                      |
+| [2.10-jdk8u112]            | frekele/java:jdk8u112    | Production   | 2.10-jdk8u112                      |
 | [2.10-jdk8u111]            | frekele/java:jdk8u111    | Production   | 2.10-jdk8u111                      |
 | [2.10-jdk8u102]            | frekele/java:jdk8u102    | Production   | 2.10-jdk8u102                      |
 | [2.10-jdk8u101]            | frekele/java:jdk8u101    | Production   | 2.10-jdk8u101                      |
