@@ -50,7 +50,7 @@
 #### Gradle 3.5 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [3.5-jdk8]                   | frekele/java:jdk8        | Production   | 3.5-jdk8, 3-jdk8                 |
+| [3.5-jdk8]                   | frekele/java:jdk8        | Production   | 3.5-jdk8                         |
 | [3.5-jdk8u131]               | frekele/java:jdk8u131    | Production   | 3.5-jdk8u131                     |
 | [3.5-jdk8u121]               | frekele/java:jdk8u121    | Production   | 3.5-jdk8u121                     |
 | [3.5-jdk8u112]               | frekele/java:jdk8u112    | Production   | 3.5-jdk8u112                     |
