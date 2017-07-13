@@ -12,10 +12,28 @@
 | [Website]  | [GitHub]  | [DockerHub]  |
 
 
+#### Gradle 4.1 with Oracle JDK Branches:
+| Branch                       | From                     | Usage        | Tag Names                        |
+| ---------------------------- | ------------------------ | ------------ | ---------------------------------|
+| [4.1-jdk8] - latest          | frekele/java:jdk8        | Production   | 4.1-jdk8, 4-jdk8, latest         |
+| [4.1-jdk8u131]               | frekele/java:jdk8u131    | Production   | 4.1-jdk8u131                     |
+| [4.1-jdk8u121]               | frekele/java:jdk8u121    | Production   | 4.1-jdk8u121                     |
+| [4.1-jdk8u112]               | frekele/java:jdk8u112    | Production   | 4.1-jdk8u112                     |
+| [4.1-jdk8u111]               | frekele/java:jdk8u111    | Production   | 4.1-jdk8u111                     |
+| [4.1-jdk8u102]               | frekele/java:jdk8u102    | Production   | 4.1-jdk8u102                     |
+| [4.1-jdk8u101]               | frekele/java:jdk8u101    | Production   | 4.1-jdk8u101                     |
+| [4.1-jdk8u92]                | frekele/java:jdk8u92     | Production   | 4.1-jdk8u92                      |
+| [4.1-jdk8u91]                | frekele/java:jdk8u91     | Production   | 4.1-jdk8u91                      |
+| [4.1-jdk7]                   | frekele/java:jdk7        | Production   | 4.1-jdk7                         |
+| [4.1-jdk7u80]                | frekele/java:jdk7u80     | Production   | 4.1-jdk7u80                      |
+| [4.1-jdk7u79]                | frekele/java:jdk7u79     | Production   | 4.1-jdk7u79                      |
+| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
+
+
 #### Gradle 4.0.1 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [4.0.1-jdk8] - latest        | frekele/java:jdk8        | Production   | 4.0.1-jdk8, 4-jdk8, latest       |
+| [4.0.1-jdk8]                 | frekele/java:jdk8        | Production   | 4.0.1-jdk8                       |
 | [4.0.1-jdk8u131]             | frekele/java:jdk8u131    | Production   | 4.0.1-jdk8u131                   |
 | [4.0.1-jdk8u121]             | frekele/java:jdk8u121    | Production   | 4.0.1-jdk8u121                   |
 | [4.0.1-jdk8u112]             | frekele/java:jdk8u112    | Production   | 4.0.1-jdk8u112                   |
@@ -27,7 +45,6 @@
 | [4.0.1-jdk7]                 | frekele/java:jdk7        | Production   | 4.0.1-jdk7                       |
 | [4.0.1-jdk7u80]              | frekele/java:jdk7u80     | Production   | 4.0.1-jdk7u80                    |
 | [4.0.1-jdk7u79]              | frekele/java:jdk7u79     | Production   | 4.0.1-jdk7u79                    |
-| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
 
 
 #### Gradle 4.0 with Oracle JDK Branches:
@@ -261,6 +278,20 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [GRADLE LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/GRADLE_LICENSE
 [MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/LICENSE
 
+[4.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8/Dockerfile
+[4.1-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u131/Dockerfile
+[4.1-jdk8u121]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u121/Dockerfile
+[4.1-jdk8u112]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u112/Dockerfile
+[4.1-jdk8u111]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u111/Dockerfile
+[4.1-jdk8u102]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u102/Dockerfile
+[4.1-jdk8u101]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u101/Dockerfile
+[4.1-jdk8u92]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u92/Dockerfile
+[4.1-jdk8u91]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u91/Dockerfile
+[4.1-jdk7]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7/Dockerfile
+[4.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7u80/Dockerfile
+[4.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7u79/Dockerfile
+[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
+
 
 [4.0.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8/Dockerfile
 [4.0.1-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u131/Dockerfile
@@ -288,7 +319,6 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [4.0-jdk7]: https://github.com/frekele/docker-gradle/blob/4.0-jdk7/Dockerfile
 [4.0-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.0-jdk7u80/Dockerfile
 [4.0-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.0-jdk7u79/Dockerfile
-[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
 
 
 [3.5.1-jdk8]: https://github.com/frekele/docker-gradle/blob/3.5.1-jdk8/Dockerfile
