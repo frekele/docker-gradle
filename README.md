@@ -25,6 +25,7 @@
 | [4.1-jdk7]                   | frekele/java:jdk7        | Production   | 4.1-jdk7                         |
 | [4.1-jdk7u80]                | frekele/java:jdk7u80     | Production   | 4.1-jdk7u80                      |
 | [4.1-jdk7u79]                | frekele/java:jdk7u79     | Production   | 4.1-jdk7u79                      |
+| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
 
 
 #### Gradle 4.0.2 with Oracle JDK Branches:
