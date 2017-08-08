@@ -268,6 +268,31 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/LICENSE
 
 
+[4.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8/Dockerfile
+[4.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u144/Dockerfile
+[4.1-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u141/Dockerfile
+[4.1-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u131/Dockerfile
+[4.1-jdk8u121]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u121/Dockerfile
+[4.1-jdk8u112]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u112/Dockerfile
+[4.1-jdk8u111]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u111/Dockerfile
+[4.1-jdk7]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7/Dockerfile
+[4.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7u80/Dockerfile
+[4.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7u79/Dockerfile
+[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
+
+
+[4.0.2-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8/Dockerfile
+[4.0.2-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u144/Dockerfile
+[4.0.2-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u141/Dockerfile
+[4.0.2-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u131/Dockerfile
+[4.0.2-jdk8u121]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u121/Dockerfile
+[4.0.2-jdk8u112]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u112/Dockerfile
+[4.0.2-jdk8u111]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u111/Dockerfile
+[4.0.2-jdk7]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk7/Dockerfile
+[4.0.2-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk7u80/Dockerfile
+[4.0.2-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk7u79/Dockerfile
+
+
 [4.0.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8/Dockerfile
 [4.0.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u144/Dockerfile
 [4.0.1-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u141/Dockerfile
@@ -278,7 +303,6 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [4.0.1-jdk7]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk7/Dockerfile
 [4.0.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk7u80/Dockerfile
 [4.0.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk7u79/Dockerfile
-[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
 
 
 [4.0-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8/Dockerfile
