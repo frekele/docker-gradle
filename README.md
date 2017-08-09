@@ -15,14 +15,14 @@
 #### Gradle 4.1 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [4.1-jdk8]                   | frekele/java:jdk8        | Production   | 4.1-jdk8                         |
+| [4.1-jdk8] - latest          | frekele/java:jdk8        | Production   | 4.1-jdk8, 4-jdk8, latest         |
 | [4.1-jdk8u144]               | frekele/java:jdk8u144    | Production   | 4.1-jdk8u144                     |
 | [4.1-jdk8u141]               | frekele/java:jdk8u141    | Production   | 4.1-jdk8u141                     |
 | [4.1-jdk8u131]               | frekele/java:jdk8u131    | Production   | 4.1-jdk8u131                     |
 | [4.1-jdk8u121]               | frekele/java:jdk8u121    | Production   | 4.1-jdk8u121                     |
 | [4.1-jdk8u112]               | frekele/java:jdk8u112    | Production   | 4.1-jdk8u112                     |
 | [4.1-jdk8u111]               | frekele/java:jdk8u111    | Production   | 4.1-jdk8u111                     |
-| [4.1-jdk7]                   | frekele/java:jdk7        | Production   | 4.1-jdk7                         |
+| [4.1-jdk7]                   | frekele/java:jdk7        | Production   | 4.1-jdk7, 4-jdk7                 |
 | [4.1-jdk7u80]                | frekele/java:jdk7u80     | Production   | 4.1-jdk7u80                      |
 | [4.1-jdk7u79]                | frekele/java:jdk7u79     | Production   | 4.1-jdk7u79                      |
 | [dev]                        | frekele/java:jdk8        | Development  | dev                              |
@@ -31,7 +31,7 @@
 #### Gradle 4.0.2 with Oracle JDK Branches:
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
-| [4.0.2-jdk8] - latest        | frekele/java:jdk8        | Production   | 4.0.2-jdk8, 4-jdk8, latest       |
+| [4.0.2-jdk8]                 | frekele/java:jdk8        | Production   | 4.0.2-jdk8                       |
 | [4.0.2-jdk8u144]             | frekele/java:jdk8u144    | Production   | 4.0.2-jdk8u144                   |
 | [4.0.2-jdk8u141]             | frekele/java:jdk8u141    | Production   | 4.0.2-jdk8u141                   |
 | [4.0.2-jdk8u131]             | frekele/java:jdk8u131    | Production   | 4.0.2-jdk8u131                   |
