@@ -25,7 +25,7 @@
 | [4.1-jdk7]                   | frekele/java:jdk7        | Production   | 4.1-jdk7, 4-jdk7                 |
 | [4.1-jdk7u80]                | frekele/java:jdk7u80     | Production   | 4.1-jdk7u80                      |
 | [4.1-jdk7u79]                | frekele/java:jdk7u79     | Production   | 4.1-jdk7u79                      |
-| [dev]                        | frekele/java:jdk8        | Development  | dev                              |
+| [master]                        | frekele/java:jdk8     | Development  | dev                              |
 
 
 #### Gradle 4.0.2 with Oracle JDK Branches:
@@ -181,13 +181,13 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
     SOFTWARE.
 
 
-[GradleImage]: https://raw.githubusercontent.com/frekele/docker-gradle/dev/gradle-logo.png
+[GradleImage]: https://raw.githubusercontent.com/frekele/docker-gradle/master/gradle-logo.png
 [GradleWebsite]: https://gradle.org/
 [Website]: https://frekele.github.io/docker-gradle
 [GitHub]: https://github.com/frekele/docker-gradle
 [DockerHub]: https://hub.docker.com/r/frekele/gradle
-[GRADLE LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/GRADLE_LICENSE
-[MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/dev/LICENSE
+[GRADLE LICENSE]: https://github.com/frekele/docker-gradle/blob/master/GRADLE_LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/master/LICENSE
 
 
 [4.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8/Dockerfile
@@ -200,7 +200,7 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [4.1-jdk7]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7/Dockerfile
 [4.1-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7u80/Dockerfile
 [4.1-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.1-jdk7u79/Dockerfile
-[dev]: https://github.com/frekele/docker-gradle/blob/dev/Dockerfile
+[master]: https://github.com/frekele/docker-gradle/blob/master/Dockerfile
 
 
 [4.0.2-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8/Dockerfile
