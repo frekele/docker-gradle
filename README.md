@@ -13,6 +13,7 @@
 
 
 #### Gradle 4.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.1-jdk8] - latest          | frekele/java:jdk8        | Production   | 4.1-jdk8, 4-jdk8, latest         |
@@ -29,6 +30,7 @@
 
 
 #### Gradle 4.0.2 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.0.2-jdk8]                 | frekele/java:jdk8        | Production   | 4.0.2-jdk8                       |
@@ -44,6 +46,7 @@
 
 
 #### Gradle 4.0.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.0.1-jdk8]                 | frekele/java:jdk8        | Production   | 4.0.1-jdk8                       |
@@ -59,6 +62,7 @@
 
 
 #### Gradle 4.0 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.0-jdk8]                   | frekele/java:jdk8        | Production   | 4.0-jdk8                         |
@@ -74,6 +78,7 @@
 
 
 #### Gradle 3.5.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.5.1-jdk8]                 | frekele/java:jdk8        | Production   | 3.5.1-jdk8, 3-jdk8               |
@@ -81,6 +86,7 @@
 
 
 #### Gradle 3.5 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.5-jdk8]                   | frekele/java:jdk8        | Production   | 3.5-jdk8                         |
@@ -88,6 +94,7 @@
 
 
 #### Gradle 3.4.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.4.1-jdk8]                 | frekele/java:jdk8        | Production   | 3.4.1-jdk8                       |
@@ -96,6 +103,7 @@
 
 
 #### Gradle 3.4 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.4-jdk8]                   | frekele/java:jdk8        | Production   | 3.4-jdk8                         |
@@ -103,6 +111,7 @@
 
 
 #### Gradle 3.3 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.3-jdk8]                   | frekele/java:jdk8        | Production   | 3.3-jdk8                         |
@@ -110,6 +119,7 @@
 
 
 #### Gradle 3.2.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.2.1-jdk8]                 | frekele/java:jdk8        | Production   | 3.2.1-jdk8                       |
@@ -117,6 +127,7 @@
 
 
 #### Gradle 3.2 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.2-jdk8]                   | frekele/java:jdk8        | Production   | 3.2-jdk8                         |
@@ -124,6 +135,7 @@
 
 
 #### Gradle 3.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.1-jdk8]                   | frekele/java:jdk8        | Production   | 3.1-jdk8                         |
@@ -131,6 +143,7 @@
 
 
 #### Gradle 3.0 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [3.0-jdk8]                   | frekele/java:jdk8        | Production   | 3.0-jdk8                         |
@@ -138,6 +151,7 @@
 
 
 #### Gradle 2.14.1 with Oracle JDK Branches:
+
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [2.14.1-jdk8]                | frekele/java:jdk8        | Production   | 2.14.1-jdk8, 2-jdk8              |
