@@ -17,6 +17,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.2.1-jdk8] - latest        | frekele/java:jdk8        | Production   | 4.2.1-jdk8, 4-jdk8, latest       |
+| [4.2.1-jdk8u152]             | frekele/java:jdk8u152    | Production   | 4.2.1-jdk8u152                   |
+| [4.2.1-jdk8u151]             | frekele/java:jdk8u151    | Production   | 4.2.1-jdk8u151                   |
 | [4.2.1-jdk8u144]             | frekele/java:jdk8u144    | Production   | 4.2.1-jdk8u144                   |
 | [4.2.1-jdk8u141]             | frekele/java:jdk8u141    | Production   | 4.2.1-jdk8u141                   |
 | [4.2.1-jdk8u131]             | frekele/java:jdk8u131    | Production   | 4.2.1-jdk8u131                   |
@@ -34,6 +36,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.2-jdk8]                   | frekele/java:jdk8        | Production   | 4.2-jdk8                         |
+| [4.2-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.2-jdk8u152                     |
+| [4.2-jdk8u151]               | frekele/java:jdk8u151    | Production   | 4.2-jdk8u151                     |
 | [4.2-jdk8u144]               | frekele/java:jdk8u144    | Production   | 4.2-jdk8u144                     |
 | [4.2-jdk8u141]               | frekele/java:jdk8u141    | Production   | 4.2-jdk8u141                     |
 | [4.2-jdk8u131]               | frekele/java:jdk8u131    | Production   | 4.2-jdk8u131                     |
@@ -50,6 +54,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.1-jdk8]                   | frekele/java:jdk8        | Production   | 4.1-jdk8                         |
+| [4.1-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.1-jdk8u152                     |
+| [4.1-jdk8u151]               | frekele/java:jdk8u151    | Production   | 4.1-jdk8u151                     |
 | [4.1-jdk8u144]               | frekele/java:jdk8u144    | Production   | 4.1-jdk8u144                     |
 | [4.1-jdk8u141]               | frekele/java:jdk8u141    | Production   | 4.1-jdk8u141                     |
 | [4.1-jdk8u131]               | frekele/java:jdk8u131    | Production   | 4.1-jdk8u131                     |
@@ -66,6 +72,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.0.2-jdk8]                 | frekele/java:jdk8        | Production   | 4.0.2-jdk8                       |
+| [4.0.2-jdk8u152]             | frekele/java:jdk8u152    | Production   | 4.0.2-jdk8u152                   |
+| [4.0.2-jdk8u151]             | frekele/java:jdk8u151    | Production   | 4.0.2-jdk8u151                   |
 | [4.0.2-jdk8u144]             | frekele/java:jdk8u144    | Production   | 4.0.2-jdk8u144                   |
 | [4.0.2-jdk8u141]             | frekele/java:jdk8u141    | Production   | 4.0.2-jdk8u141                   |
 | [4.0.2-jdk8u131]             | frekele/java:jdk8u131    | Production   | 4.0.2-jdk8u131                   |
@@ -82,6 +90,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.0.1-jdk8]                 | frekele/java:jdk8        | Production   | 4.0.1-jdk8                       |
+| [4.0.1-jdk8u152]             | frekele/java:jdk8u152    | Production   | 4.0.1-jdk8u152                   |
+| [4.0.1-jdk8u151]             | frekele/java:jdk8u151    | Production   | 4.0.1-jdk8u151                   |
 | [4.0.1-jdk8u144]             | frekele/java:jdk8u144    | Production   | 4.0.1-jdk8u144                   |
 | [4.0.1-jdk8u141]             | frekele/java:jdk8u141    | Production   | 4.0.1-jdk8u141                   |
 | [4.0.1-jdk8u131]             | frekele/java:jdk8u131    | Production   | 4.0.1-jdk8u131                   |
@@ -98,6 +108,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.0-jdk8]                   | frekele/java:jdk8        | Production   | 4.0-jdk8                         |
+| [4.0-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.0-jdk8u152                     |
+| [4.0-jdk8u151]               | frekele/java:jdk8u151    | Production   | 4.0-jdk8u151                     |
 | [4.0-jdk8u144]               | frekele/java:jdk8u144    | Production   | 4.0-jdk8u144                     |
 | [4.0-jdk8u141]               | frekele/java:jdk8u141    | Production   | 4.0-jdk8u141                     |
 | [4.0-jdk8u131]               | frekele/java:jdk8u131    | Production   | 4.0-jdk8u131                     |
@@ -237,6 +249,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.2.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.2.1-jdk8/Dockerfile
+[4.2.1-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.2.1-jdk8u152/Dockerfile
+[4.2.1-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.2.1-jdk8u151/Dockerfile
 [4.2.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.2.1-jdk8u144/Dockerfile
 [4.2.1-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.2.1-jdk8u141/Dockerfile
 [4.2.1-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.2.1-jdk8u131/Dockerfile
@@ -250,6 +264,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.2-jdk8]: https://github.com/frekele/docker-gradle/blob/4.2-jdk8/Dockerfile
+[4.2-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.2-jdk8u152/Dockerfile
+[4.2-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.2-jdk8u151/Dockerfile
 [4.2-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.2-jdk8u144/Dockerfile
 [4.2-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.2-jdk8u141/Dockerfile
 [4.2-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.2-jdk8u131/Dockerfile
@@ -262,6 +278,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8/Dockerfile
+[4.1-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u152/Dockerfile
+[4.1-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u151/Dockerfile
 [4.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u144/Dockerfile
 [4.1-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u141/Dockerfile
 [4.1-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.1-jdk8u131/Dockerfile
@@ -274,6 +292,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.0.2-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8/Dockerfile
+[4.0.2-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u152/Dockerfile
+[4.0.2-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u151/Dockerfile
 [4.0.2-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u144/Dockerfile
 [4.0.2-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u141/Dockerfile
 [4.0.2-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.0.2-jdk8u131/Dockerfile
@@ -286,6 +306,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.0.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8/Dockerfile
+[4.0.1-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u152/Dockerfile
+[4.0.1-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u151/Dockerfile
 [4.0.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u144/Dockerfile
 [4.0.1-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u141/Dockerfile
 [4.0.1-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.0.1-jdk8u131/Dockerfile
@@ -298,6 +320,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.0-jdk8]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8/Dockerfile
+[4.0-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8u152/Dockerfile
+[4.0-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8u151/Dockerfile
 [4.0-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8u144/Dockerfile
 [4.0-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8u141/Dockerfile
 [4.0-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.0-jdk8u131/Dockerfile
