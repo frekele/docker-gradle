@@ -17,6 +17,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.4.1-jdk8] - latest        | frekele/java:jdk8        | Production   | 4.4.1-jdk8, 4-jdk8, latest       |
+| [4.4.1-jdk8u162]             | frekele/java:jdk8u162    | Production   | 4.4.1-jdk8u162                   |
+| [4.4.1-jdk8u161]             | frekele/java:jdk8u161    | Production   | 4.4.1-jdk8u161                   |
 | [4.4.1-jdk8u152]             | frekele/java:jdk8u152    | Production   | 4.4.1-jdk8u152                   |
 | [4.4.1-jdk8u151]             | frekele/java:jdk8u151    | Production   | 4.4.1-jdk8u151                   |
 | [4.4.1-jdk8u144]             | frekele/java:jdk8u144    | Production   | 4.4.1-jdk8u144                   |
@@ -36,6 +38,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.4-jdk8]                   | frekele/java:jdk8        | Production   | 4.4-jdk8                         |
+| [4.4-jdk8u162]               | frekele/java:jdk8u162    | Production   | 4.4-jdk8u162                     |
+| [4.4-jdk8u161]               | frekele/java:jdk8u161    | Production   | 4.4-jdk8u161                     |
 | [4.4-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.4-jdk8u152                     |
 | [4.4-jdk8u151]               | frekele/java:jdk8u151    | Production   | 4.4-jdk8u151                     |
 | [4.4-jdk8u144]               | frekele/java:jdk8u144    | Production   | 4.4-jdk8u144                     |
@@ -54,6 +58,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.3.1-jdk8]                 | frekele/java:jdk8        | Production   | 4.3.1-jdk8                       |
+| [4.3.1-jdk8u162]             | frekele/java:jdk8u162    | Production   | 4.3.1-jdk8u162                   |
+| [4.3.1-jdk8u161]             | frekele/java:jdk8u161    | Production   | 4.3.1-jdk8u161                   |
 | [4.3.1-jdk8u152]             | frekele/java:jdk8u152    | Production   | 4.3.1-jdk8u152                   |
 | [4.3.1-jdk8u151]             | frekele/java:jdk8u151    | Production   | 4.3.1-jdk8u151                   |
 | [4.3.1-jdk8u144]             | frekele/java:jdk8u144    | Production   | 4.3.1-jdk8u144                   |
@@ -72,6 +78,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.3-jdk8]                   | frekele/java:jdk8        | Production   | 4.3-jdk8                         |
+| [4.3-jdk8u162]               | frekele/java:jdk8u162    | Production   | 4.3-jdk8u162                     |
+| [4.3-jdk8u161]               | frekele/java:jdk8u161    | Production   | 4.3-jdk8u161                     |
 | [4.3-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.3-jdk8u152                     |
 | [4.3-jdk8u151]               | frekele/java:jdk8u151    | Production   | 4.3-jdk8u151                     |
 | [4.3-jdk8u144]               | frekele/java:jdk8u144    | Production   | 4.3-jdk8u144                     |
@@ -262,6 +270,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.4.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.4.1-jdk8/Dockerfile
+[4.4.1-jdk8u162]: https://github.com/frekele/docker-gradle/blob/4.4.1-jdk8u162/Dockerfile
+[4.4.1-jdk8u161]: https://github.com/frekele/docker-gradle/blob/4.4.1-jdk8u161/Dockerfile
 [4.4.1-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.4.1-jdk8u152/Dockerfile
 [4.4.1-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.4.1-jdk8u151/Dockerfile
 [4.4.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.4.1-jdk8u144/Dockerfile
@@ -277,6 +287,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.4-jdk8]: https://github.com/frekele/docker-gradle/blob/4.4-jdk8/Dockerfile
+[4.4-jdk8u162]: https://github.com/frekele/docker-gradle/blob/4.4-jdk8u162/Dockerfile
+[4.4-jdk8u161]: https://github.com/frekele/docker-gradle/blob/4.4-jdk8u161/Dockerfile
 [4.4-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.4-jdk8u152/Dockerfile
 [4.4-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.4-jdk8u151/Dockerfile
 [4.4-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.4-jdk8u144/Dockerfile
@@ -291,6 +303,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.3.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.3.1-jdk8/Dockerfile
+[4.3.1-jdk8u162]: https://github.com/frekele/docker-gradle/blob/4.3.1-jdk8u162/Dockerfile
+[4.3.1-jdk8u161]: https://github.com/frekele/docker-gradle/blob/4.3.1-jdk8u161/Dockerfile
 [4.3.1-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.3.1-jdk8u152/Dockerfile
 [4.3.1-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.3.1-jdk8u151/Dockerfile
 [4.3.1-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.3.1-jdk8u144/Dockerfile
@@ -305,6 +319,8 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 
 [4.3-jdk8]: https://github.com/frekele/docker-gradle/blob/4.3-jdk8/Dockerfile
+[4.3-jdk8u162]: https://github.com/frekele/docker-gradle/blob/4.3-jdk8u162/Dockerfile
+[4.3-jdk8u161]: https://github.com/frekele/docker-gradle/blob/4.3-jdk8u161/Dockerfile
 [4.3-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.3-jdk8u152/Dockerfile
 [4.3-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.3-jdk8u151/Dockerfile
 [4.3-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.3-jdk8u144/Dockerfile
