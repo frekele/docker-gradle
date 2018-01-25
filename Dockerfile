@@ -1,8 +1,8 @@
-FROM frekele/java:jdk8
+FROM frekele/java:jdk7
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV GRADLE_VERSION=4.4.1
+ENV GRADLE_VERSION=4.5
 ENV GRADLE_HOME=/opt/gradle
 ENV GRADLE_FOLDER=/root/.gradle
 
