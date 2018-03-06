@@ -329,20 +329,20 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 [MIT LICENSE]: https://github.com/frekele/docker-gradle/blob/master/LICENSE
 
 
-[4.5-jdk8]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8/Dockerfile
-[4.5-jdk8u162]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u162/Dockerfile
-[4.5-jdk8u161]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u161/Dockerfile
-[4.5-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u152/Dockerfile
-[4.5-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u151/Dockerfile
-[4.5-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u144/Dockerfile
-[4.5-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u141/Dockerfile
-[4.5-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u131/Dockerfile
-[4.5-jdk8u121]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u121/Dockerfile
-[4.5-jdk8u112]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u112/Dockerfile
-[4.5-jdk8u111]: https://github.com/frekele/docker-gradle/blob/4.5-jdk8u111/Dockerfile
-[4.5-jdk7]: https://github.com/frekele/docker-gradle/blob/4.5-jdk7/Dockerfile
-[4.5-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.5-jdk7u80/Dockerfile
-[4.5-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.5-jdk7u79/Dockerfile
+[4.6-jdk8]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8/Dockerfile
+[4.6-jdk8u162]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u162/Dockerfile
+[4.6-jdk8u161]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u161/Dockerfile
+[4.6-jdk8u152]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u152/Dockerfile
+[4.6-jdk8u151]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u151/Dockerfile
+[4.6-jdk8u144]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u144/Dockerfile
+[4.6-jdk8u141]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u141/Dockerfile
+[4.6-jdk8u131]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u131/Dockerfile
+[4.6-jdk8u121]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u121/Dockerfile
+[4.6-jdk8u112]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u112/Dockerfile
+[4.6-jdk8u111]: https://github.com/frekele/docker-gradle/blob/4.6-jdk8u111/Dockerfile
+[4.6-jdk7]: https://github.com/frekele/docker-gradle/blob/4.6-jdk7/Dockerfile
+[4.6-jdk7u80]: https://github.com/frekele/docker-gradle/blob/4.6-jdk7u80/Dockerfile
+[4.6-jdk7u79]: https://github.com/frekele/docker-gradle/blob/4.6-jdk7u79/Dockerfile
 [master]: https://github.com/frekele/docker-gradle/blob/master/Dockerfile
 
 [4.5.1-jdk8]: https://github.com/frekele/docker-gradle/blob/4.5.1-jdk8/Dockerfile
