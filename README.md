@@ -17,6 +17,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.6-jdk8] - latest          | frekele/java:jdk8        | Production   | 4.6-jdk8, 4-jdk8, latest         |
+| [4.6-jdk8u172]               | frekele/java:jdk8u172    | Production   | 4.6-jdk8u172                     |
+| [4.6-jdk8u171]               | frekele/java:jdk8u171    | Production   | 4.6-jdk8u171                     |
 | [4.6-jdk8u162]               | frekele/java:jdk8u162    | Production   | 4.6-jdk8u162                     |
 | [4.6-jdk8u161]               | frekele/java:jdk8u161    | Production   | 4.6-jdk8u161                     |
 | [4.6-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.6-jdk8u152                     |
@@ -38,6 +40,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.5.1-jdk8]                 | frekele/java:jdk8        | Production   | 4.5.1-jdk8                       |
+| [4.5.1-jdk8u172]             | frekele/java:jdk8u172    | Production   | 4.5.1-jdk8u172                   |
+| [4.5.1-jdk8u171]             | frekele/java:jdk8u171    | Production   | 4.5.1-jdk8u171                   |
 | [4.5.1-jdk8u162]             | frekele/java:jdk8u162    | Production   | 4.5.1-jdk8u162                   |
 | [4.5.1-jdk8u161]             | frekele/java:jdk8u161    | Production   | 4.5.1-jdk8u161                   |
 | [4.5.1-jdk8u152]             | frekele/java:jdk8u152    | Production   | 4.5.1-jdk8u152                   |
@@ -58,6 +62,8 @@
 | Branch                       | From                     | Usage        | Tag Names                        |
 | ---------------------------- | ------------------------ | ------------ | ---------------------------------|
 | [4.5-jdk8]                   | frekele/java:jdk8        | Production   | 4.5-jdk8                         |
+| [4.5-jdk8u172]               | frekele/java:jdk8u172    | Production   | 4.5-jdk8u172                     |
+| [4.5-jdk8u171]               | frekele/java:jdk8u171    | Production   | 4.5-jdk8u171                     |
 | [4.5-jdk8u162]               | frekele/java:jdk8u162    | Production   | 4.5-jdk8u162                     |
 | [4.5-jdk8u161]               | frekele/java:jdk8u161    | Production   | 4.5-jdk8u161                     |
 | [4.5-jdk8u152]               | frekele/java:jdk8u152    | Production   | 4.5-jdk8u152                     |
