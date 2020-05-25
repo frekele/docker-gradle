@@ -475,3 +475,4 @@ frekele/docker-gradle is **licensed** under the **[MIT License]**. The terms of 
 
 [2.14.1-jdk8]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk8/Dockerfile
 [2.14.1-jdk7]: https://github.com/frekele/docker-gradle/blob/2.14.1-jdk7/Dockerfile
+
